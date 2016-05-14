@@ -1,0 +1,17 @@
+.default {
+    cursor: pointer;
+    font-size: 14px;
+    background: #d4e1ff;
+    border: 1px solid #83a8fd;
+    color: black;
+}
+
+.default:hover {
+    border: 1px solid #074BE6;
+}
+
+.default:disabled {
+    background: #eaeaea;
+    border-color: #d2d2d2;
+    color: #afafaf;
+}

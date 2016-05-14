@@ -1,0 +1,8 @@
+.form {
+    width: 500px;
+}
+
+.submitButton {
+    composes: default from "./Button.css";
+    margin-left: 10px;
+}
